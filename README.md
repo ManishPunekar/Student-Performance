@@ -1,29 +1,29 @@
-# 🎓 Student Performance Prediction using Machine Learning
-## 📌 Project Overview
+# **🎓 Student Performance Prediction using Machine Learning**
+## **📌 Project Overview**
 
 This project builds an end-to-end Machine Learning pipeline to analyze and predict student academic performance using a large-scale dataset.
 The problem is approached in two parts:
 
-Regression Task: Predicting total marks
+**Regression Task:** Predicting total marks
 
-Classification Task: Predicting student grade
+**Classification Task:** Predicting student grade
 
 The project focuses on classical machine learning algorithms and emphasizes interpretability, evaluation, and fundamental ML concepts rather than deep learning.
 
 
-📊 Dataset Information
+## **📊 Dataset Information**
 
-Source: Kaggle – Student Performance Dataset
+**Source:** Kaggle – Student Performance Dataset
 
-Type: Structured tabular data
+**Type:** Structured tabular data
 
-Size: Large-scale dataset (hundreds of thousands to 1M+ records)
+**Size:** Large-scale dataset (hundreds of thousands to 1M+ records)
 
-Target Variables
+### **Target Variables**
 
-Total Marks → Regression
+  1.Total Marks → Regression
 
-Grade → Classification
+  2.Grade → Classification
 
 Features Include
 
