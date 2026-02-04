@@ -1,5 +1,5 @@
-🎓 Student Performance Prediction using Machine Learning
-📌 Project Overview
+# 🎓 Student Performance Prediction using Machine Learning
+## 📌 Project Overview
 
 This project builds an end-to-end Machine Learning pipeline to analyze and predict student academic performance using a large-scale dataset.
 The problem is approached in two parts:
