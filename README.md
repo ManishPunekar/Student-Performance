@@ -21,18 +21,18 @@ The project focuses on classical machine learning algorithms and emphasizes inte
 
 ### **Target Variables**
 
-  - 1.Total Marks → Regression
+  - Total Marks → Regression
 
-  - 2.Grade → Classification
+  - Grade → Classification
 
-Features Include
+### **Features Include**
 
-Study hours
+- Weekly Study hours
 
-Attendance
+- Attendance
 
-Previous academic scores
+- Class Participation
 
-Assignment performance
+- Total Score
 
-Behavioral and demographic attributes
+- student_id
