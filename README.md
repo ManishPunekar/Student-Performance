@@ -21,9 +21,9 @@ The project focuses on classical machine learning algorithms and emphasizes inte
 
 ### **Target Variables**
 
-  1.Total Marks → Regression
+  - 1.Total Marks → Regression
 
-  2.Grade → Classification
+  - 2.Grade → Classification
 
 Features Include
 
